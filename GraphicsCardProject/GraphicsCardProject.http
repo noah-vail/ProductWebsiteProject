@@ -1,0 +1,6 @@
+@GraphicsCardProject_HostAddress = http://localhost:5178
+
+GET {{GraphicsCardProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
